@@ -2,5 +2,5 @@ package Data;
 
 public enum Type {
     STUDENT,
-    TEACHER
+    STUDYGROUP, TEACHER
 }

@@ -6,6 +6,10 @@ public abstract class User {
     private String lastName;
     private String dateB;
 
+    public User() {
+
+    }
+
     @Override
     public String toString() {
         return "User{" +

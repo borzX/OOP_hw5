@@ -9,6 +9,10 @@ public class Teacher extends User {
         this.teacherId = teacherId;
     }
 
+    public Teacher() {
+        super();
+    }
+
     public int getTeacherId() {
         return teacherId;
     }
